@@ -82,7 +82,7 @@ console.log(`Rate limit: ${rateLimitRemaining} / ${rateLimit} remaining`);
                     <div >
                         <p style=" color:green" class="fw-bold"><strong>User '${username}' doesn't exist on GitHub.</strong></p>
                         <p><mark>⚠️ Important Note: This doesn't necessarily mean the username is available for registration as they may have
-                         additional rules that may prevent certain usernames from being registered<mark> </p>
+                         additional rules that may prevent certain usernames from being registered</mark> </p>
                         <p>To check if you can register this username:</p>
                         <a href="https://github.com/signup?source=login" target="_blank" style="display: inline-block; margin-top: 5px; padding: 4px 8px; background-color: #2ea44f; color: white; text-decoration: none; border-radius: 6px;">Check on GitHub Signup</a>
                     </div>
